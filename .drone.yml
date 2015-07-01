@@ -1,3 +1,6 @@
+
+
+
 image: ruby2.0.0
 script:
   - cp config/database.drone.yml config/database.yml
